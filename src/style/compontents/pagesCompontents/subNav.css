@@ -1,0 +1,32 @@
+.sub-nav-warp{
+  width: 200px;
+  padding: 20px 0;
+  float: left;
+  background-color: #ffffff;
+}
+.sub-nav-warp ul{
+  width: 200px;
+}
+.sub-nav-group {
+  font-size:12px;
+  color: #8d9399;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 20px;
+  margin-top: 10px;
+  text-align: left;
+}
+.sub-nav-item {
+  padding-left: 30px;
+  height: 40px;
+  font-size:14px;
+  color: #46494d;
+  line-height: 40px;
+  cursor: pointer;
+  text-align: left;
+}
+.sub-nav-item:active{
+  border-right: 4px solid #4180fb;
+  background-color: #f7faff;
+  color: #4180fb;
+}

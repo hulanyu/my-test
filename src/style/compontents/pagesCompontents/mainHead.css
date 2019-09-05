@@ -1,0 +1,37 @@
+.main-head{
+  min-width: 1200px;
+  margin: 0 auto;
+  background-color: #4180fb;
+  height: 60px;
+}
+.main-head-log {
+  width: 230px;
+  color: #ffffff;
+  font-size: 20px;
+  height: 60px;
+  line-height: 60px;
+  float: left;
+  padding-left: 10px;
+}
+.main-head-log img{
+  
+}
+.main-heade-nav {
+  height: 60px;
+  line-height: 60px;
+  font-size: 12px;
+  color: #e7efff;
+  padding: 0 30px;
+  text-align: center;
+  cursor: pointer;
+  float: left;
+  min-width: 72px;
+ }
+.main-heade-nav:hover{
+  background-color: #6296FC;;
+  color: #ffffff;
+}
+.main-heade-nav:active{
+  background-color:#206AFA;
+  color: #ffffff;
+}
